@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-
+    <!-- Allows the application to access the internet for API calls -->
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
