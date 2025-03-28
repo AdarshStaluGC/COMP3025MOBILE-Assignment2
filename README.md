@@ -1,4 +1,4 @@
-Name - Adarsh Stalu
+Name - Adarsh Stalu |
 Student Number - 200564265
 
 This repository is created as a part of my Mobile and Pervasive Computing Assignment2
